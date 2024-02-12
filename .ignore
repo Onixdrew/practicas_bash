@@ -1,0 +1,9 @@
+#ignorar archivos .txt
+
+*.txt
+#ignorar archivos .png
+
+*.png
+
+#ignorar archivos .jpg
+*.jpg
